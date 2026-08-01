@@ -1,0 +1,7 @@
+{
+    "version": "3.29",
+    "maphack": {
+        "enabled": true,
+        "offset": "102F2EA"
+    }
+}
