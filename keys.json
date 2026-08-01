@@ -1,12 +1,12 @@
 {
     "keys": [
         {
-            "key": "X7K9-ABCD-92F1",
-            "expire": "2026-09-01"
+            "key": "X7K9ABCD92F1",
+            "expire": "2099-12-31"
         },
         {
             "key": "P3Q8-ZYXW-5512",
-            "expire": "2026-10-15"
+            "expire": "2099-12-31"
         }
     ]
 }
